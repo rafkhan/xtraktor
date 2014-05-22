@@ -1,0 +1,18 @@
+{
+  "name": "xtraktor",
+  "version": "0.0.0",
+  "authors": [
+    "Rafael Khan <raf.khan.f@gmail.com>"
+  ],
+  "description": "Extract rich media and metadata from a URL",
+  "main": "src/xtraktor.js",
+  "license": "BSD",
+  "homepage": "https://github.com/rafkhan/xtraktor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

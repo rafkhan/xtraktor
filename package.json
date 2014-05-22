@@ -1,0 +1,20 @@
+{
+  "name": "xtraktor",
+  "version": "0.0.0",
+  "description": "Extract rich media and metadata from a URL",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafkhan/xtraktor"
+  },
+  "author": "Rafael Khan",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/rafkhan/xtraktor/issues"
+  },
+  "homepage": "https://github.com/rafkhan/xtraktor"
+}
