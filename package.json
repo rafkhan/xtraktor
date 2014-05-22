@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "description": "Extract rich media and metadata from a URL",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.19.0",
+    "casperjs": "^1.1.0-beta3"
+  },
   "scripts": {
     "test": "mocha"
   },
